@@ -1,0 +1,49 @@
+name: Meteo Italia
+
+on:
+  schedule:
+    # 03:00 UTC ogni giorno. Il cron di GitHub e' in UTC e puo' ritardare di
+    # qualche minuto: irrilevante, dato che i dati hanno comunque alcuni giorni
+    # di latenza e la finestra mobile li recupera tutti.
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Modalita: daily oppure backfill'
+        default: 'daily'
+        type: choice
+        options: [daily, backfill]
+      years:
+        description: 'Anni di storico (solo per backfill)'
+        default: '5'
+
+# Necessario per permettere al job di committare il CSV aggiornato
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installa dipendenze
+        run: pip install -r requirements.txt
+
+      - name: Scarica dati meteo
+        run: |
+          python meteo_italia.py \
+            --mode "${{ github.event.inputs.mode || 'daily' }}" \
+            --years "${{ github.event.inputs.years || '5' }}"
+
+      - name: Committa il dataset aggiornato
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Aggiornamento meteo $(date -u +%Y-%m-%d)"
+          git push
