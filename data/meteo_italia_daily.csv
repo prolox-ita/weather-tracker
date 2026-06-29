@@ -788,14 +788,14 @@ data,punto_id,nome,lat,lon,quota_m,macroarea,tipo,fonte,temperature_2m_max,tempe
 2026-06-20,N04,Venezia,45.44,12.316,6.0,Nord,costiero,era5,31.6,21.3,26.5,0.5,18.9
 2026-06-20,N05,Genova,44.405,8.946,11.0,Nord,costiero,era5,31.5,20.8,26.6,0.0,8.7
 2026-06-20,N06,Trieste,45.649,13.776,27.0,Nord,costiero,era5,31.8,20.9,26.6,0.0,11.0
-2026-06-20,N07,Rimini,44.06,12.566,13.0,Nord,costiero,forecast,31.1,21.7,27.3,0.0,12.4
+2026-06-20,N07,Rimini,44.06,12.566,13.0,Nord,costiero,era5,31.5,23.7,28.0,0.0,13.4
 2026-06-20,N08,Sanremo,43.816,7.776,22.0,Nord,costiero,era5,31.6,20.9,27.2,0.0,12.8
 2026-06-20,N09,Bolzano,46.498,11.354,279.0,Nord,montano,era5,36.0,19.3,27.3,1.0,11.1
 2026-06-20,N10,Cortina d'Ampezzo,46.54,12.135,1220.0,Nord,montano,era5,26.6,13.2,19.3,10.2,7.8
 2026-06-20,N11,Aosta,45.737,7.32,585.0,Nord,montano,era5,34.8,18.4,27.2,0.0,6.1
 2026-06-20,N12,Sestriere,44.957,6.879,2038.0,Nord,montano,era5,23.8,8.5,16.4,0.7,6.4
 2026-06-20,N13,Cuneo,44.39,7.551,542.0,Nord,rurale,era5,31.4,20.3,26.4,0.1,6.8
-2026-06-20,N14,Cremona,45.133,10.022,53.0,Nord,rurale,forecast,35.8,21.7,28.6,0.0,9.9
+2026-06-20,N14,Cremona,45.133,10.022,53.0,Nord,rurale,era5,35.5,23.4,29.7,0.0,14.9
 2026-06-20,N15,Pordenone,45.957,12.66,28.0,Nord,rurale,era5,34.2,22.5,28.1,1.1,11.6
 2026-06-20,S01,Napoli,40.852,14.268,19.0,Sud,urbano,era5,30.8,23.2,27.4,0.0,14.0
 2026-06-20,S02,Bari,41.117,16.872,9.0,Sud,urbano,era5,31.1,21.5,26.8,0.0,13.5
@@ -837,18 +837,18 @@ data,punto_id,nome,lat,lon,quota_m,macroarea,tipo,fonte,temperature_2m_max,tempe
 2026-06-21,N04,Venezia,45.44,12.316,6.0,Nord,costiero,era5,33.7,22.4,28.4,0.0,9.4
 2026-06-21,N05,Genova,44.405,8.946,11.0,Nord,costiero,era5,32.7,22.1,27.3,0.1,9.5
 2026-06-21,N06,Trieste,45.649,13.776,27.0,Nord,costiero,era5,33.6,22.0,27.2,0.0,14.1
-2026-06-21,N07,Rimini,44.06,12.566,13.0,Nord,costiero,forecast,32.6,22.9,28.2,0.0,11.6
+2026-06-21,N07,Rimini,44.06,12.566,13.0,Nord,costiero,era5,31.2,23.8,28.3,0.0,11.4
 2026-06-21,N08,Sanremo,43.816,7.776,22.0,Nord,costiero,era5,33.5,21.7,28.2,0.0,8.1
 2026-06-21,N09,Bolzano,46.498,11.354,279.0,Nord,montano,era5,34.8,18.2,27.1,0.1,5.0
 2026-06-21,N10,Cortina d'Ampezzo,46.54,12.135,1220.0,Nord,montano,era5,26.4,14.7,20.4,0.5,7.3
 2026-06-21,N11,Aosta,45.737,7.32,585.0,Nord,montano,era5,36.5,20.2,28.9,0.4,10.5
 2026-06-21,N12,Sestriere,44.957,6.879,2038.0,Nord,montano,era5,25.5,9.1,17.1,1.3,8.1
 2026-06-21,N13,Cuneo,44.39,7.551,542.0,Nord,rurale,era5,33.0,21.3,27.1,0.0,10.4
-2026-06-21,N14,Cremona,45.133,10.022,53.0,Nord,rurale,forecast,35.2,22.6,29.0,0.0,13.6
+2026-06-21,N14,Cremona,45.133,10.022,53.0,Nord,rurale,era5,35.0,22.8,29.2,1.0,16.4
 2026-06-21,N15,Pordenone,45.957,12.66,28.0,Nord,rurale,era5,35.6,22.2,29.4,0.0,10.2
 2026-06-21,S01,Napoli,40.852,14.268,19.0,Sud,urbano,era5,30.7,23.9,27.4,0.0,13.6
 2026-06-21,S02,Bari,41.117,16.872,9.0,Sud,urbano,era5,31.9,20.8,27.1,0.0,14.2
-2026-06-21,S03,Lecce,40.352,18.174,55.0,Sud,urbano,forecast,31.0,20.1,26.0,0.0,16.7
+2026-06-21,S03,Lecce,40.352,18.174,55.0,Sud,urbano,era5,32.2,20.6,27.0,0.0,17.6
 2026-06-21,S04,Reggio Calabria,38.111,15.647,15.0,Sud,costiero,era5,32.2,23.1,27.6,0.0,10.5
 2026-06-21,S05,Crotone,39.081,17.127,11.0,Sud,costiero,era5,33.3,22.2,28.6,0.0,15.6
 2026-06-21,S06,Tropea,38.677,15.898,60.0,Sud,costiero,era5,26.6,24.0,25.6,0.0,10.9
@@ -862,8 +862,8 @@ data,punto_id,nome,lat,lon,quota_m,macroarea,tipo,fonte,temperature_2m_max,tempe
 2026-06-22,C02,Firenze,43.77,11.255,67.0,Centro,urbano,era5,36.8,21.3,29.0,0.1,15.1
 2026-06-22,C03,Perugia,43.11,12.389,485.0,Centro,urbano,era5,31.7,18.3,25.6,0.0,12.0
 2026-06-22,C04,Pescara,42.464,14.214,8.0,Centro,costiero,era5,32.2,23.4,28.1,0.0,16.7
-2026-06-22,C05,Ancona,43.616,13.519,33.0,Centro,costiero,forecast,30.5,25.0,27.9,0.0,16.7
-2026-06-22,C06,Grosseto,42.76,11.113,15.0,Centro,costiero,forecast,37.4,22.0,30.0,0.2,19.6
+2026-06-22,C05,Ancona,43.616,13.519,33.0,Centro,costiero,era5,31.7,23.2,27.8,0.0,16.9
+2026-06-22,C06,Grosseto,42.76,11.113,15.0,Centro,costiero,era5,34.8,22.4,29.5,0.3,20.5
 2026-06-22,C07,San Benedetto del Tronto,42.948,13.881,9.0,Centro,costiero,era5,32.2,24.2,28.8,0.0,17.6
 2026-06-22,C08,L'Aquila,42.351,13.398,720.0,Centro,montano,era5,28.8,17.3,23.6,1.2,11.2
 2026-06-22,C09,Campo Imperatore,42.441,13.559,2111.0,Centro,montano,era5,17.7,11.1,14.6,2.5,8.6
@@ -874,8 +874,8 @@ data,punto_id,nome,lat,lon,quota_m,macroarea,tipo,fonte,temperature_2m_max,tempe
 2026-06-22,I02,Catania,37.51,15.083,34.0,Isole,urbano,era5,33.2,23.0,28.5,0.0,13.1
 2026-06-22,I03,Trapani,38.018,12.537,7.0,Isole,costiero,forecast,31.6,20.7,26.6,0.0,22.0
 2026-06-22,I04,Enna,37.567,14.275,926.0,Isole,montano,era5,30.7,15.7,23.4,0.9,13.2
-2026-06-22,I05,Nicolosi (Etna),37.616,15.024,723.0,Isole,montano,forecast,29.0,19.6,24.6,0.0,17.6
-2026-06-22,I06,Cagliari,39.224,9.122,33.0,Isole,costiero,forecast,33.0,22.2,27.3,0.0,18.2
+2026-06-22,I05,Nicolosi (Etna),37.616,15.024,723.0,Isole,montano,era5,27.0,18.8,23.2,1.9,7.9
+2026-06-22,I06,Cagliari,39.224,9.122,33.0,Isole,costiero,era5,29.3,23.6,26.7,0.0,19.2
 2026-06-22,I07,Sassari,40.727,8.56,213.0,Isole,rurale,era5,32.2,23.5,27.4,0.0,18.3
 2026-06-22,I08,Nuoro,40.321,9.33,535.0,Isole,montano,era5,33.3,20.5,27.5,0.0,14.2
 2026-06-22,I09,Olbia,40.923,9.499,10.0,Isole,costiero,era5,35.2,22.4,30.0,0.0,17.1
@@ -885,76 +885,77 @@ data,punto_id,nome,lat,lon,quota_m,macroarea,tipo,fonte,temperature_2m_max,tempe
 2026-06-22,N03,Bologna,44.494,11.343,74.0,Nord,urbano,era5,34.5,23.0,28.7,0.2,9.8
 2026-06-22,N04,Venezia,45.44,12.316,6.0,Nord,costiero,era5,35.1,23.0,29.0,0.0,16.1
 2026-06-22,N05,Genova,44.405,8.946,11.0,Nord,costiero,era5,33.5,22.5,28.0,0.4,11.9
-2026-06-22,N06,Trieste,45.649,13.776,27.0,Nord,costiero,forecast,35.1,23.7,28.3,1.6,42.7
-2026-06-22,N07,Rimini,44.06,12.566,13.0,Nord,costiero,forecast,31.9,23.8,28.3,0.0,14.5
+2026-06-22,N06,Trieste,45.649,13.776,27.0,Nord,costiero,era5,33.9,21.4,27.7,0.7,18.4
+2026-06-22,N07,Rimini,44.06,12.566,13.0,Nord,costiero,era5,32.3,23.9,28.3,0.0,15.4
 2026-06-22,N08,Sanremo,43.816,7.776,22.0,Nord,costiero,era5,34.5,22.2,29.3,0.6,10.8
 2026-06-22,N09,Bolzano,46.498,11.354,279.0,Nord,montano,era5,35.9,19.3,26.4,2.5,10.6
 2026-06-22,N10,Cortina d'Ampezzo,46.54,12.135,1220.0,Nord,montano,era5,26.1,15.6,20.1,1.9,11.6
 2026-06-22,N11,Aosta,45.737,7.32,585.0,Nord,montano,era5,37.6,20.9,29.4,0.2,10.1
 2026-06-22,N12,Sestriere,44.957,6.879,2038.0,Nord,montano,era5,25.9,10.4,16.9,1.9,9.0
-2026-06-22,N13,Cuneo,44.39,7.551,542.0,Nord,rurale,forecast,34.6,22.2,27.8,0.1,21.7
-2026-06-22,N14,Cremona,45.133,10.022,53.0,Nord,rurale,forecast,36.4,23.2,29.7,0.0,8.7
+2026-06-22,N13,Cuneo,44.39,7.551,542.0,Nord,rurale,era5,32.4,20.9,27.2,0.4,9.4
+2026-06-22,N14,Cremona,45.133,10.022,53.0,Nord,rurale,era5,34.2,24.3,29.2,1.4,10.3
 2026-06-22,N15,Pordenone,45.957,12.66,28.0,Nord,rurale,era5,36.8,23.3,29.8,1.8,12.0
 2026-06-22,S01,Napoli,40.852,14.268,19.0,Sud,urbano,era5,31.4,24.1,27.9,1.1,10.3
-2026-06-22,S02,Bari,41.117,16.872,9.0,Sud,urbano,forecast,29.8,21.3,26.2,0.0,12.6
-2026-06-22,S03,Lecce,40.352,18.174,55.0,Sud,urbano,forecast,30.5,21.4,26.1,0.0,20.0
+2026-06-22,S02,Bari,41.117,16.872,9.0,Sud,urbano,era5,32.5,22.4,27.9,0.0,12.8
+2026-06-22,S03,Lecce,40.352,18.174,55.0,Sud,urbano,era5,33.0,23.4,28.2,0.0,19.9
 2026-06-22,S04,Reggio Calabria,38.111,15.647,15.0,Sud,costiero,era5,33.1,23.4,27.9,0.0,14.4
 2026-06-22,S05,Crotone,39.081,17.127,11.0,Sud,costiero,era5,35.3,21.9,29.6,0.0,17.8
 2026-06-22,S06,Tropea,38.677,15.898,60.0,Sud,costiero,era5,26.8,23.4,25.3,0.0,10.7
 2026-06-22,S07,Gallipoli,40.056,17.992,19.0,Sud,costiero,era5,34.5,24.1,29.6,1.2,16.6
 2026-06-22,S08,Potenza,40.642,15.805,760.0,Sud,montano,era5,32.2,19.7,24.5,9.2,14.6
 2026-06-22,S09,Campobasso,41.56,14.659,708.0,Sud,montano,forecast,29.9,18.0,24.3,0.0,18.1
-2026-06-22,S10,Camigliatello Silano,39.299,16.46,1841.0,Sud,montano,forecast,21.7,11.5,16.1,5.8,12.0
+2026-06-22,S10,Camigliatello Silano,39.299,16.46,1841.0,Sud,montano,era5,22.8,10.8,16.4,0.5,10.0
 2026-06-22,S11,Matera,40.666,16.604,407.0,Sud,rurale,era5,34.3,20.7,27.3,0.6,21.2
 2026-06-22,S12,Benevento,41.13,14.783,162.0,Sud,rurale,era5,35.2,21.2,27.2,2.0,17.1
 2026-06-23,C01,Roma,41.902,12.496,56.0,Centro,urbano,forecast,35.7,23.0,28.9,0.4,15.3
-2026-06-23,C02,Firenze,43.77,11.255,67.0,Centro,urbano,forecast,36.3,20.3,29.0,0.0,6.9
-2026-06-23,C03,Perugia,43.11,12.389,485.0,Centro,urbano,forecast,33.5,18.7,26.3,0.0,17.8
-2026-06-23,C04,Pescara,42.464,14.214,8.0,Centro,costiero,forecast,32.5,22.3,27.7,0.0,12.8
-2026-06-23,C05,Ancona,43.616,13.519,33.0,Centro,costiero,forecast,31.4,25.3,28.3,0.0,12.0
-2026-06-23,C06,Grosseto,42.76,11.113,15.0,Centro,costiero,forecast,35.3,21.0,28.3,0.1,19.8
+2026-06-23,C02,Firenze,43.77,11.255,67.0,Centro,urbano,era5,34.8,20.7,28.6,0.5,9.5
+2026-06-23,C03,Perugia,43.11,12.389,485.0,Centro,urbano,era5,32.4,18.4,25.5,0.0,13.5
+2026-06-23,C04,Pescara,42.464,14.214,8.0,Centro,costiero,era5,32.4,24.8,28.8,0.0,13.6
+2026-06-23,C05,Ancona,43.616,13.519,33.0,Centro,costiero,era5,31.8,23.7,27.9,0.0,14.9
+2026-06-23,C06,Grosseto,42.76,11.113,15.0,Centro,costiero,era5,33.7,23.0,28.8,0.2,14.9
 2026-06-23,C07,San Benedetto del Tronto,42.948,13.881,9.0,Centro,costiero,forecast,32.1,24.8,28.7,0.0,13.2
-2026-06-23,C08,L'Aquila,42.351,13.398,720.0,Centro,montano,forecast,31.1,13.6,22.5,0.0,12.2
-2026-06-23,C09,Campo Imperatore,42.441,13.559,2111.0,Centro,montano,forecast,19.3,12.7,15.5,0.0,15.0
+2026-06-23,C08,L'Aquila,42.351,13.398,720.0,Centro,montano,era5,29.5,16.7,23.5,0.4,11.8
+2026-06-23,C09,Campo Imperatore,42.441,13.559,2111.0,Centro,montano,era5,18.2,11.0,14.6,0.7,10.2
 2026-06-23,C10,Rieti,42.404,12.862,399.0,Centro,montano,forecast,33.6,18.4,25.3,1.0,15.1
-2026-06-23,C11,Viterbo,42.42,12.105,347.0,Centro,rurale,forecast,33.7,21.6,26.6,0.4,16.8
+2026-06-23,C11,Viterbo,42.42,12.105,347.0,Centro,rurale,era5,32.9,20.5,26.6,0.9,12.8
 2026-06-23,C12,Siena,43.319,11.331,347.0,Centro,rurale,forecast,33.7,20.2,27.2,0.2,9.9
-2026-06-23,I01,Palermo,38.116,13.361,31.0,Isole,costiero,forecast,29.7,23.3,26.9,0.0,9.7
-2026-06-23,I02,Catania,37.51,15.083,34.0,Isole,urbano,forecast,30.8,22.8,26.9,0.0,16.3
+2026-06-23,I01,Palermo,38.116,13.361,31.0,Isole,costiero,era5,31.3,25.4,28.5,0.0,9.6
+2026-06-23,I02,Catania,37.51,15.083,34.0,Isole,urbano,era5,32.4,24.4,28.6,0.2,14.2
 2026-06-23,I03,Trapani,38.018,12.537,7.0,Isole,costiero,forecast,30.3,22.3,26.7,0.0,13.0
 2026-06-23,I04,Enna,37.567,14.275,926.0,Isole,montano,forecast,31.1,16.9,23.3,1.5,21.3
-2026-06-23,I05,Nicolosi (Etna),37.616,15.024,723.0,Isole,montano,forecast,28.8,20.2,24.5,0.2,15.5
-2026-06-23,I06,Cagliari,39.224,9.122,33.0,Isole,costiero,forecast,31.1,22.9,27.0,0.0,16.3
-2026-06-23,I07,Sassari,40.727,8.56,213.0,Isole,rurale,forecast,33.3,21.1,27.2,0.0,22.5
-2026-06-23,I08,Nuoro,40.321,9.33,535.0,Isole,montano,forecast,30.4,20.0,25.4,0.0,21.1
-2026-06-23,I09,Olbia,40.923,9.499,10.0,Isole,costiero,forecast,31.9,23.2,28.1,0.0,15.7
+2026-06-23,I05,Nicolosi (Etna),37.616,15.024,723.0,Isole,montano,era5,26.1,20.3,22.8,13.5,8.8
+2026-06-23,I06,Cagliari,39.224,9.122,33.0,Isole,costiero,era5,31.2,23.9,27.3,0.4,14.4
+2026-06-23,I07,Sassari,40.727,8.56,213.0,Isole,rurale,era5,34.5,24.0,28.8,0.0,24.6
+2026-06-23,I08,Nuoro,40.321,9.33,535.0,Isole,montano,era5,32.3,22.2,27.2,1.1,15.5
+2026-06-23,I09,Olbia,40.923,9.499,10.0,Isole,costiero,era5,33.6,24.0,29.0,0.0,13.6
 2026-06-23,I10,Fonni,40.117,9.262,909.0,Isole,montano,forecast,30.5,18.7,24.0,0.3,16.3
-2026-06-23,N01,Milano,45.464,9.19,142.0,Nord,urbano,forecast,35.3,23.6,30.1,1.8,12.6
-2026-06-23,N02,Torino,45.07,7.687,239.0,Nord,urbano,forecast,36.0,24.9,30.3,0.4,9.2
-2026-06-23,N03,Bologna,44.494,11.343,74.0,Nord,urbano,forecast,35.9,23.6,29.9,0.0,10.5
-2026-06-23,N04,Venezia,45.44,12.316,6.0,Nord,costiero,forecast,33.0,23.6,28.1,0.2,18.3
-2026-06-23,N05,Genova,44.405,8.946,11.0,Nord,costiero,forecast,31.9,25.3,29.1,0.0,14.1
-2026-06-23,N06,Trieste,45.649,13.776,27.0,Nord,costiero,forecast,32.3,25.5,28.4,0.8,10.9
-2026-06-23,N07,Rimini,44.06,12.566,13.0,Nord,costiero,forecast,31.3,24.6,28.3,0.0,11.0
+2026-06-23,N01,Milano,45.464,9.19,142.0,Nord,urbano,era5,36.4,23.3,30.0,7.0,21.9
+2026-06-23,N02,Torino,45.07,7.687,239.0,Nord,urbano,era5,36.6,22.9,30.5,0.3,9.6
+2026-06-23,N03,Bologna,44.494,11.343,74.0,Nord,urbano,era5,35.2,20.8,28.9,0.1,14.6
+2026-06-23,N04,Venezia,45.44,12.316,6.0,Nord,costiero,era5,33.8,22.4,28.4,0.0,12.9
+2026-06-23,N05,Genova,44.405,8.946,11.0,Nord,costiero,era5,33.6,23.6,28.5,0.2,22.9
+2026-06-23,N06,Trieste,45.649,13.776,27.0,Nord,costiero,era5,32.1,20.9,26.8,1.1,18.6
+2026-06-23,N07,Rimini,44.06,12.566,13.0,Nord,costiero,era5,32.0,24.4,28.5,0.0,13.2
+2026-06-23,N08,Sanremo,43.816,7.776,22.0,Nord,costiero,forecast,33.9,27.9,30.4,0.0,11.3
 2026-06-23,N09,Bolzano,46.498,11.354,279.0,Nord,montano,forecast,36.6,21.2,28.8,0.0,10.8
-2026-06-23,N10,Cortina d'Ampezzo,46.54,12.135,1220.0,Nord,montano,forecast,27.2,14.0,19.8,6.2,12.1
-2026-06-23,N11,Aosta,45.737,7.32,585.0,Nord,montano,forecast,36.5,19.1,27.5,0.0,18.8
-2026-06-23,N12,Sestriere,44.957,6.879,2038.0,Nord,montano,forecast,22.8,12.6,16.8,6.6,20.8
-2026-06-23,N13,Cuneo,44.39,7.551,542.0,Nord,rurale,forecast,34.5,20.1,27.7,0.0,17.6
-2026-06-23,N14,Cremona,45.133,10.022,53.0,Nord,rurale,forecast,35.8,23.8,29.7,0.0,14.5
+2026-06-23,N10,Cortina d'Ampezzo,46.54,12.135,1220.0,Nord,montano,era5,26.3,15.7,19.9,1.7,10.3
+2026-06-23,N11,Aosta,45.737,7.32,585.0,Nord,montano,era5,38.1,22.4,30.2,0.0,10.3
+2026-06-23,N12,Sestriere,44.957,6.879,2038.0,Nord,montano,era5,24.6,11.3,17.1,4.6,7.7
+2026-06-23,N13,Cuneo,44.39,7.551,542.0,Nord,rurale,era5,32.6,22.8,27.9,0.1,8.6
+2026-06-23,N14,Cremona,45.133,10.022,53.0,Nord,rurale,era5,34.1,23.6,29.4,0.0,16.1
 2026-06-23,N15,Pordenone,45.957,12.66,28.0,Nord,rurale,forecast,33.8,22.3,27.7,0.6,13.3
 2026-06-23,S01,Napoli,40.852,14.268,19.0,Sud,urbano,forecast,34.3,23.7,28.8,0.9,11.0
-2026-06-23,S02,Bari,41.117,16.872,9.0,Sud,urbano,forecast,30.4,24.0,27.4,0.0,14.4
-2026-06-23,S03,Lecce,40.352,18.174,55.0,Sud,urbano,forecast,31.7,22.8,27.1,0.0,19.9
-2026-06-23,S04,Reggio Calabria,38.111,15.647,15.0,Sud,costiero,forecast,32.9,25.3,28.4,0.0,12.1
-2026-06-23,S05,Crotone,39.081,17.127,11.0,Sud,costiero,forecast,32.9,24.3,28.3,0.0,12.7
-2026-06-23,S06,Tropea,38.677,15.898,60.0,Sud,costiero,forecast,29.3,24.9,27.1,0.0,8.6
-2026-06-23,S07,Gallipoli,40.056,17.992,19.0,Sud,costiero,forecast,29.9,23.6,27.0,0.0,17.6
+2026-06-23,S02,Bari,41.117,16.872,9.0,Sud,urbano,era5,33.2,24.9,28.9,0.0,14.8
+2026-06-23,S03,Lecce,40.352,18.174,55.0,Sud,urbano,era5,34.2,24.2,28.9,0.0,17.1
+2026-06-23,S04,Reggio Calabria,38.111,15.647,15.0,Sud,costiero,era5,32.4,23.8,28.0,1.0,10.5
+2026-06-23,S05,Crotone,39.081,17.127,11.0,Sud,costiero,era5,35.3,25.7,30.9,0.2,18.0
+2026-06-23,S06,Tropea,38.677,15.898,60.0,Sud,costiero,era5,27.2,23.9,25.7,0.0,9.4
+2026-06-23,S07,Gallipoli,40.056,17.992,19.0,Sud,costiero,era5,35.7,24.1,29.7,0.0,18.5
 2026-06-23,S08,Potenza,40.642,15.805,760.0,Sud,montano,forecast,28.5,16.7,22.5,1.0,16.5
 2026-06-23,S09,Campobasso,41.56,14.659,708.0,Sud,montano,forecast,29.2,17.3,23.5,0.0,19.6
-2026-06-23,S10,Camigliatello Silano,39.299,16.46,1841.0,Sud,montano,forecast,20.8,11.8,15.4,5.1,12.1
-2026-06-23,S11,Matera,40.666,16.604,407.0,Sud,rurale,forecast,32.4,21.6,26.9,0.0,19.1
-2026-06-23,S12,Benevento,41.13,14.783,162.0,Sud,rurale,forecast,34.6,16.8,25.5,0.6,17.1
+2026-06-23,S10,Camigliatello Silano,39.299,16.46,1841.0,Sud,montano,era5,21.0,11.1,15.3,3.2,9.0
+2026-06-23,S11,Matera,40.666,16.604,407.0,Sud,rurale,era5,32.9,21.1,26.8,0.9,16.0
+2026-06-23,S12,Benevento,41.13,14.783,162.0,Sud,rurale,era5,31.5,20.1,26.3,1.3,16.0
 2026-06-24,C01,Roma,41.902,12.496,56.0,Centro,urbano,forecast,35.6,22.8,28.6,0.0,7.2
 2026-06-24,C02,Firenze,43.77,11.255,67.0,Centro,urbano,forecast,36.6,21.5,29.0,0.0,12.8
 2026-06-24,C03,Perugia,43.11,12.389,485.0,Centro,urbano,forecast,31.5,18.0,25.5,0.7,16.1
@@ -984,6 +985,7 @@ data,punto_id,nome,lat,lon,quota_m,macroarea,tipo,fonte,temperature_2m_max,tempe
 2026-06-24,N05,Genova,44.405,8.946,11.0,Nord,costiero,forecast,31.7,23.9,27.7,1.9,17.9
 2026-06-24,N06,Trieste,45.649,13.776,27.0,Nord,costiero,forecast,31.8,25.1,28.5,0.0,11.9
 2026-06-24,N07,Rimini,44.06,12.566,13.0,Nord,costiero,forecast,32.3,23.7,28.7,0.0,12.9
+2026-06-24,N08,Sanremo,43.816,7.776,22.0,Nord,costiero,forecast,31.9,26.8,29.3,0.0,9.5
 2026-06-24,N09,Bolzano,46.498,11.354,279.0,Nord,montano,forecast,35.6,21.9,28.6,0.0,12.5
 2026-06-24,N10,Cortina d'Ampezzo,46.54,12.135,1220.0,Nord,montano,forecast,26.5,12.7,19.6,0.1,11.0
 2026-06-24,N11,Aosta,45.737,7.32,585.0,Nord,montano,forecast,35.7,19.1,25.8,1.9,35.5
@@ -1032,6 +1034,7 @@ data,punto_id,nome,lat,lon,quota_m,macroarea,tipo,fonte,temperature_2m_max,tempe
 2026-06-25,N05,Genova,44.405,8.946,11.0,Nord,costiero,forecast,32.3,25.2,28.4,0.1,13.4
 2026-06-25,N06,Trieste,45.649,13.776,27.0,Nord,costiero,forecast,33.3,25.9,29.4,0.0,12.9
 2026-06-25,N07,Rimini,44.06,12.566,13.0,Nord,costiero,forecast,31.9,22.1,28.0,0.0,10.1
+2026-06-25,N08,Sanremo,43.816,7.776,22.0,Nord,costiero,forecast,33.1,27.3,30.0,0.0,11.4
 2026-06-25,N09,Bolzano,46.498,11.354,279.0,Nord,montano,forecast,37.7,24.1,29.8,0.0,15.6
 2026-06-25,N10,Cortina d'Ampezzo,46.54,12.135,1220.0,Nord,montano,forecast,27.7,14.3,21.4,0.0,15.8
 2026-06-25,N11,Aosta,45.737,7.32,585.0,Nord,montano,forecast,35.8,19.2,26.8,0.2,28.7
@@ -1079,6 +1082,7 @@ data,punto_id,nome,lat,lon,quota_m,macroarea,tipo,fonte,temperature_2m_max,tempe
 2026-06-26,N05,Genova,44.405,8.946,11.0,Nord,costiero,forecast,30.6,23.6,27.8,0.0,10.4
 2026-06-26,N06,Trieste,45.649,13.776,27.0,Nord,costiero,forecast,34.7,25.9,30.1,0.0,13.5
 2026-06-26,N07,Rimini,44.06,12.566,13.0,Nord,costiero,forecast,32.4,22.7,28.4,0.0,11.4
+2026-06-26,N08,Sanremo,43.816,7.776,22.0,Nord,costiero,forecast,32.6,27.0,29.8,0.0,9.3
 2026-06-26,N09,Bolzano,46.498,11.354,279.0,Nord,montano,forecast,37.9,23.8,30.0,0.0,12.4
 2026-06-26,N10,Cortina d'Ampezzo,46.54,12.135,1220.0,Nord,montano,forecast,28.2,15.9,21.3,4.4,14.9
 2026-06-26,N11,Aosta,45.737,7.32,585.0,Nord,montano,forecast,36.2,20.4,27.5,0.4,24.5
@@ -1097,12 +1101,15 @@ data,punto_id,nome,lat,lon,quota_m,macroarea,tipo,fonte,temperature_2m_max,tempe
 2026-06-26,S10,Camigliatello Silano,39.299,16.46,1841.0,Sud,montano,forecast,19.1,11.3,15.3,7.4,12.6
 2026-06-26,S11,Matera,40.666,16.604,407.0,Sud,rurale,forecast,32.5,20.3,26.9,0.0,17.9
 2026-06-26,S12,Benevento,41.13,14.783,162.0,Sud,rurale,forecast,35.4,17.4,26.8,0.0,15.3
+2026-06-27,C01,Roma,41.902,12.496,56.0,Centro,urbano,forecast,35.7,24.0,29.5,0.0,14.2
 2026-06-27,C02,Firenze,43.77,11.255,67.0,Centro,urbano,forecast,38.8,20.5,30.3,0.0,10.1
 2026-06-27,C03,Perugia,43.11,12.389,485.0,Centro,urbano,forecast,35.1,16.3,26.5,0.0,14.3
 2026-06-27,C04,Pescara,42.464,14.214,8.0,Centro,costiero,forecast,32.6,20.6,27.5,0.0,14.2
 2026-06-27,C05,Ancona,43.616,13.519,33.0,Centro,costiero,forecast,31.8,24.6,28.6,0.0,9.9
 2026-06-27,C06,Grosseto,42.76,11.113,15.0,Centro,costiero,forecast,35.5,22.6,28.7,0.0,17.3
 2026-06-27,C07,San Benedetto del Tronto,42.948,13.881,9.0,Centro,costiero,forecast,32.2,23.0,28.2,0.0,12.3
+2026-06-27,C08,L'Aquila,42.351,13.398,720.0,Centro,montano,forecast,33.1,15.3,24.6,0.0,13.9
+2026-06-27,C09,Campo Imperatore,42.441,13.559,2111.0,Centro,montano,forecast,21.7,13.3,17.3,0.0,7.1
 2026-06-27,C10,Rieti,42.404,12.862,399.0,Centro,montano,forecast,34.2,19.9,27.1,0.0,11.3
 2026-06-27,C11,Viterbo,42.42,12.105,347.0,Centro,rurale,forecast,34.4,22.5,27.7,0.0,16.9
 2026-06-27,C12,Siena,43.319,11.331,347.0,Centro,rurale,forecast,35.3,19.7,27.9,0.0,17.1
@@ -1112,6 +1119,8 @@ data,punto_id,nome,lat,lon,quota_m,macroarea,tipo,fonte,temperature_2m_max,tempe
 2026-06-27,I04,Enna,37.567,14.275,926.0,Isole,montano,forecast,30.5,16.8,23.5,0.3,16.6
 2026-06-27,I05,Nicolosi (Etna),37.616,15.024,723.0,Isole,montano,forecast,28.9,20.7,24.6,0.4,13.4
 2026-06-27,I06,Cagliari,39.224,9.122,33.0,Isole,costiero,forecast,31.0,22.9,27.3,0.0,16.5
+2026-06-27,I07,Sassari,40.727,8.56,213.0,Isole,rurale,forecast,33.2,21.1,27.1,0.0,19.1
+2026-06-27,I08,Nuoro,40.321,9.33,535.0,Isole,montano,forecast,32.8,19.0,26.1,0.0,19.6
 2026-06-27,I09,Olbia,40.923,9.499,10.0,Isole,costiero,forecast,34.6,22.5,29.1,0.0,13.0
 2026-06-27,I10,Fonni,40.117,9.262,909.0,Isole,montano,forecast,31.6,17.5,24.7,0.0,15.1
 2026-06-27,N01,Milano,45.464,9.19,142.0,Nord,urbano,forecast,36.1,26.2,31.2,0.0,9.5
@@ -1120,16 +1129,61 @@ data,punto_id,nome,lat,lon,quota_m,macroarea,tipo,fonte,temperature_2m_max,tempe
 2026-06-27,N04,Venezia,45.44,12.316,6.0,Nord,costiero,forecast,34.1,25.3,29.8,0.0,12.9
 2026-06-27,N05,Genova,44.405,8.946,11.0,Nord,costiero,forecast,31.8,24.5,28.6,0.0,9.5
 2026-06-27,N06,Trieste,45.649,13.776,27.0,Nord,costiero,forecast,35.8,26.8,30.8,0.0,13.7
+2026-06-27,N07,Rimini,44.06,12.566,13.0,Nord,costiero,forecast,32.9,23.9,28.7,0.0,11.6
+2026-06-27,N08,Sanremo,43.816,7.776,22.0,Nord,costiero,forecast,33.8,27.7,30.6,0.0,9.9
 2026-06-27,N09,Bolzano,46.498,11.354,279.0,Nord,montano,forecast,37.4,24.0,29.9,0.1,17.5
 2026-06-27,N10,Cortina d'Ampezzo,46.54,12.135,1220.0,Nord,montano,forecast,28.9,16.1,21.5,0.1,15.5
 2026-06-27,N11,Aosta,45.737,7.32,585.0,Nord,montano,forecast,35.3,21.2,27.7,17.2,21.9
 2026-06-27,N12,Sestriere,44.957,6.879,2038.0,Nord,montano,forecast,21.9,12.7,16.9,11.9,42.7
 2026-06-27,N13,Cuneo,44.39,7.551,542.0,Nord,rurale,forecast,34.2,22.0,27.1,0.0,27.0
 2026-06-27,N14,Cremona,45.133,10.022,53.0,Nord,rurale,forecast,37.4,23.8,30.7,0.0,10.3
+2026-06-27,N15,Pordenone,45.957,12.66,28.0,Nord,rurale,forecast,35.8,23.5,29.6,0.0,12.0
 2026-06-27,S02,Bari,41.117,16.872,9.0,Sud,urbano,forecast,30.9,23.8,27.7,0.0,13.5
+2026-06-27,S03,Lecce,40.352,18.174,55.0,Sud,urbano,forecast,32.5,23.6,27.9,0.0,18.4
 2026-06-27,S05,Crotone,39.081,17.127,11.0,Sud,costiero,forecast,31.6,24.5,28.8,0.0,21.0
 2026-06-27,S06,Tropea,38.677,15.898,60.0,Sud,costiero,forecast,29.9,25.4,27.6,0.2,10.9
 2026-06-27,S07,Gallipoli,40.056,17.992,19.0,Sud,costiero,forecast,33.4,24.2,28.6,0.0,18.5
 2026-06-27,S08,Potenza,40.642,15.805,760.0,Sud,montano,forecast,31.1,20.1,25.3,0.4,13.5
 2026-06-27,S09,Campobasso,41.56,14.659,708.0,Sud,montano,forecast,32.0,17.4,24.9,0.0,15.3
 2026-06-27,S10,Camigliatello Silano,39.299,16.46,1841.0,Sud,montano,forecast,22.4,12.8,17.3,0.3,13.6
+2026-06-27,S11,Matera,40.666,16.604,407.0,Sud,rurale,forecast,34.4,21.7,28.1,0.0,19.5
+2026-06-27,S12,Benevento,41.13,14.783,162.0,Sud,rurale,forecast,37.3,16.8,27.5,0.1,16.4
+2026-06-28,C01,Roma,41.902,12.496,56.0,Centro,urbano,forecast,37.4,23.8,30.2,0.0,15.5
+2026-06-28,C02,Firenze,43.77,11.255,67.0,Centro,urbano,forecast,38.6,21.3,30.2,0.0,14.6
+2026-06-28,C03,Perugia,43.11,12.389,485.0,Centro,urbano,forecast,36.3,20.4,28.5,0.0,15.0
+2026-06-28,C06,Grosseto,42.76,11.113,15.0,Centro,costiero,forecast,35.0,21.1,28.3,0.0,15.5
+2026-06-28,C07,San Benedetto del Tronto,42.948,13.881,9.0,Centro,costiero,forecast,33.0,23.0,28.9,0.0,12.8
+2026-06-28,C08,L'Aquila,42.351,13.398,720.0,Centro,montano,forecast,35.2,15.8,25.8,0.0,14.6
+2026-06-28,C09,Campo Imperatore,42.441,13.559,2111.0,Centro,montano,forecast,22.5,14.6,18.3,0.0,7.9
+2026-06-28,C10,Rieti,42.404,12.862,399.0,Centro,montano,forecast,35.7,20.4,28.1,0.0,11.6
+2026-06-28,C11,Viterbo,42.42,12.105,347.0,Centro,rurale,forecast,35.4,23.3,28.8,0.0,18.3
+2026-06-28,C12,Siena,43.319,11.331,347.0,Centro,rurale,forecast,36.3,20.8,28.1,0.0,19.3
+2026-06-28,I01,Palermo,38.116,13.361,31.0,Isole,costiero,forecast,31.1,24.4,28.1,0.0,9.7
+2026-06-28,I02,Catania,37.51,15.083,34.0,Isole,urbano,forecast,31.6,25.0,28.4,0.0,14.1
+2026-06-28,I03,Trapani,38.018,12.537,7.0,Isole,costiero,forecast,32.4,23.9,28.3,0.0,22.8
+2026-06-28,I06,Cagliari,39.224,9.122,33.0,Isole,costiero,forecast,33.6,22.3,28.2,0.0,16.3
+2026-06-28,I07,Sassari,40.727,8.56,213.0,Isole,rurale,forecast,32.9,22.0,27.4,0.0,16.2
+2026-06-28,I08,Nuoro,40.321,9.33,535.0,Isole,montano,forecast,33.6,19.7,26.8,0.0,20.6
+2026-06-28,I09,Olbia,40.923,9.499,10.0,Isole,costiero,forecast,35.7,23.6,29.7,0.0,16.7
+2026-06-28,I10,Fonni,40.117,9.262,909.0,Isole,montano,forecast,32.5,18.5,25.6,0.0,14.8
+2026-06-28,N01,Milano,45.464,9.19,142.0,Nord,urbano,forecast,36.7,26.2,31.1,0.2,19.4
+2026-06-28,N02,Torino,45.07,7.687,239.0,Nord,urbano,forecast,37.1,23.8,30.2,2.6,28.0
+2026-06-28,N03,Bologna,44.494,11.343,74.0,Nord,urbano,forecast,36.7,22.9,30.4,0.0,11.9
+2026-06-28,N04,Venezia,45.44,12.316,6.0,Nord,costiero,forecast,34.3,24.3,29.5,0.0,11.4
+2026-06-28,N05,Genova,44.405,8.946,11.0,Nord,costiero,forecast,30.9,22.5,27.6,0.0,10.4
+2026-06-28,N06,Trieste,45.649,13.776,27.0,Nord,costiero,forecast,33.7,25.4,29.4,0.0,8.4
+2026-06-28,N07,Rimini,44.06,12.566,13.0,Nord,costiero,forecast,32.6,23.8,28.8,0.0,12.2
+2026-06-28,N08,Sanremo,43.816,7.776,22.0,Nord,costiero,forecast,32.9,27.3,30.3,0.0,10.7
+2026-06-28,N11,Aosta,45.737,7.32,585.0,Nord,montano,forecast,36.1,21.9,28.1,0.5,33.5
+2026-06-28,N12,Sestriere,44.957,6.879,2038.0,Nord,montano,forecast,24.8,12.5,18.0,0.0,22.1
+2026-06-28,N13,Cuneo,44.39,7.551,542.0,Nord,rurale,forecast,34.2,20.5,26.2,5.5,36.2
+2026-06-28,N14,Cremona,45.133,10.022,53.0,Nord,rurale,forecast,37.2,24.9,30.6,0.0,15.5
+2026-06-28,N15,Pordenone,45.957,12.66,28.0,Nord,rurale,forecast,36.3,21.7,29.4,0.0,7.7
+2026-06-28,S02,Bari,41.117,16.872,9.0,Sud,urbano,forecast,31.7,22.2,27.5,0.0,13.2
+2026-06-28,S03,Lecce,40.352,18.174,55.0,Sud,urbano,forecast,32.5,23.9,28.2,0.0,17.7
+2026-06-28,S05,Crotone,39.081,17.127,11.0,Sud,costiero,forecast,32.0,25.1,29.2,0.0,16.4
+2026-06-28,S08,Potenza,40.642,15.805,760.0,Sud,montano,forecast,32.6,20.3,26.2,0.0,20.9
+2026-06-28,S09,Campobasso,41.56,14.659,708.0,Sud,montano,forecast,34.3,18.0,26.3,0.0,17.8
+2026-06-28,S10,Camigliatello Silano,39.299,16.46,1841.0,Sud,montano,forecast,22.9,13.0,18.0,0.0,16.3
+2026-06-28,S11,Matera,40.666,16.604,407.0,Sud,rurale,forecast,35.3,20.6,28.4,0.0,21.7
+2026-06-28,S12,Benevento,41.13,14.783,162.0,Sud,rurale,forecast,38.8,17.2,28.4,0.0,15.0
